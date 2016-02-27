@@ -23,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #188FBC;
+    color: #2C3E50;
 }
 
 h1,
@@ -311,7 +311,7 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: #2C3E50;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
