@@ -451,25 +451,16 @@ footer .footer-below {
     position: fixed;
     right: 2%;
     bottom: 2%;
-    width: 50px;
-    height: 50px;
+    font-size: 28px;
+    color: rgba(198, 199, 200, 0.7);
 }
 
-.scroll-top .btn {
-    width: 50px;
-    height: 50px;
-    border-radius: 100%;
-    font-size: 18px;
-    line-height: 28px;
-    color: rgba(24,188,156,0.6);
-    background-color: rgba(255, 255, 255, 0);
-    border-color: rgba(24,188,156,0.6);
+.scroll-top:focus {
+    color: rgba(198, 199, 200, 0.7);
 }
 
-.scroll-top .btn:focus, .scroll-top .btn:hover {
-    outline: 0;
-    color: rgb(24,188,156,0.6);
-    background-color: rgba(24,188,156,0.6);
+.scroll-top:hover {
+    color: rgba(198, 199, 200, 1);
 }
 
 .portfolio-modal .modal-content {
