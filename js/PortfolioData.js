@@ -3,9 +3,19 @@
 var portfolio_data = {
     portfolioitem : [
         {
+            title : "Social Website Aggregator",
+            date : "March 2016",
+            href : "portfolioModal1",
+            src : "img/portfolio/siteace.png",
+            alt : "siteace.png",
+            link : "http://joensiteace.meteor.com/",
+            githublink : "https://github.com/Joensg/joensiteace.meteor.com/",
+            description : "A social website aggregator using MeteorJS."
+        },
+        {
             title : "E-portfolio",
             date : "November 2015",
-            href : "portfolioModal1",
+            href : "portfolioModal2",
             src : "img/portfolio/eportfolio.png",
             alt : "eportfolio.png",
             link : "http://joensg.github.io/",
@@ -15,7 +25,7 @@ var portfolio_data = {
         {
             title : "Angular App1",
             date : "February 2016",
-            href : "portfolioModal2",
+            href : "portfolioModal3",
             src : "img/portfolio/angularapp1.png",
             alt : "angularapp1.png",
             link : "http://joensg.github.io/Web-Project-6-Angular-App1/",
@@ -25,7 +35,7 @@ var portfolio_data = {
         {
             title : "ConFusion",
             date : "November 2015",
-            href : "portfolioModal3",
+            href : "portfolioModal4",
             src : "img/portfolio/confusion.png",
             alt : "confusion.png",
             link : "http://joensg.github.io/Web-Project-5-ConFusion/",
@@ -35,7 +45,7 @@ var portfolio_data = {
         {
             title : "Responsive Web page",
             date : "November 2015",
-            href : "portfolioModal4",
+            href : "portfolioModal5",
             src : "img/portfolio/responsivewebpage.png",
             alt : "responsivewebpage.png",
             link : "http://joensg.github.io/Web-Project-4-Responsive-web-page/",
@@ -45,7 +55,7 @@ var portfolio_data = {
         {
             title : "Matching game",
             date : "November 2015",
-            href : "portfolioModal5",
+            href : "portfolioModal6",
             src : "img/portfolio/matchinggame.png",
             alt : "matchinggame.png",
             link : "http://joensg.github.io/Web-Project-3-Matching-game/",
@@ -55,7 +65,7 @@ var portfolio_data = {
         {
             title : "Simple Form",
             date : "November 2015",
-            href : "portfolioModal6",
+            href : "portfolioModal7",
             src : "img/portfolio/simpleform.png",
             alt : "simpleform.png",
             link : "http://joensg.github.io/Web-Project-1-Simple-form/",
@@ -65,7 +75,7 @@ var portfolio_data = {
         {
             title : "Task List",
             date : "February 2016",
-            href : "portfolioModal7",
+            href : "portfolioModal8",
             src : "img/portfolio/tasklist.png",
             alt : "tasklist.png",
             link : "http://joensg.github.io/Web-Project-7-Task-List/index.html",
@@ -75,7 +85,7 @@ var portfolio_data = {
         {
             title : "Animals Data Driven Website",
             date : "February 2016",
-            href : "portfolioModal8",
+            href : "portfolioModal9",
             src : "img/portfolio/animalsddw.png",
             alt : "animalsddw.png",
             link : "http://joensg.github.io/Web-Project-8-Animals-Data-Driven-Website/",
