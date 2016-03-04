@@ -168,6 +168,11 @@ var portfolio_data = {
             number : "14",
             src : "certificates/Coursera%20YBGFQW5NTEXN.png",
             alt : "Coursera%20YBGFQW5NTEXN.png"
+        },
+        {
+            number : "15",
+            src : "certificates/Coursera%20CGRE3UMZTU2U.png",
+            alt : "Coursera%20CGRE3UMZTU2U.png"
         }
     ]
 };
